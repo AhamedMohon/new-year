@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+header{
+    max-width: 82%;
+    margin: auto;
+    margin-top: 30px;
+    /* heigh: 600px; */
+}
+
+.container{
+    background: linear-gradient(#070211,#07021100);
+    border-radius: 16px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Happy{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.new{
+    width: 621px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; 
+    /* 131.944% */
+}
+#CATEGORIES {
+    margin: 40px 0;
+}
+#CATEGORIES h1 {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: normal;
+    margin: 120px 0 48px 0;
+}
+#CATEGORIES h2{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#CATEGORIES 
+.img{
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.off{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.our{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.All{
+   
+}
