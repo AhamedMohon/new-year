@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: aqua;
+    background-color: white;
 }
 
 
@@ -76,7 +76,11 @@ header{
 }
 
 
-
+main{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+}
 
 
 
@@ -113,7 +117,3 @@ header{
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-}
-.All{
-   
-}
